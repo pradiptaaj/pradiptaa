@@ -29,7 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sthaswarnim17&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=sthaswarnim17&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
 
 <br clear="both">
 
